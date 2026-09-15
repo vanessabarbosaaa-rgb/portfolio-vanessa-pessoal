@@ -182,7 +182,7 @@ function App() {
           </div>
 
           <div className="contact-links">
-            <a href="mailto:seuemail@exemplo.com">✉ <span>seuemail@exemplo.com</span></a>
+            <a href="mailto:vanessa.barbosaaa@gmail.com">✉ <span>vanessa.barbosaaa@gmail.com</span></a>
             <a href="https://github.com/" target="_blank" rel="noreferrer">⌘ <span>GitHub</span></a>
             <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">in <span>LinkedIn</span></a>
           </div>
