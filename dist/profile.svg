@@ -1,0 +1,20 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dfe9ff"/>
+      <stop offset="100%" stop-color="#b9c9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" rx="48" fill="url(#bg)"/>
+  <circle cx="690" cy="190" r="120" fill="#fff" opacity=".38"/>
+  <circle cx="170" cy="920" r="180" fill="#fff" opacity=".25"/>
+  <circle cx="450" cy="400" r="165" fill="#fff" opacity=".88"/>
+  <path d="M260 860c25-190 110-285 190-285s165 95 190 285" fill="#26365f"/>
+  <circle cx="450" cy="390" r="118" fill="#f0c4a8"/>
+  <path d="M332 382c8-120 65-185 137-185 89 0 145 65 145 188-35-48-80-71-136-71-52 0-104 25-146 68z" fill="#29243a"/>
+  <circle cx="408" cy="395" r="8" fill="#263047"/>
+  <circle cx="492" cy="395" r="8" fill="#263047"/>
+  <path d="M422 455c20 17 38 17 58 0" stroke="#a45f62" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M300 805c65-72 122-108 150-108 35 0 91 36 150 108" stroke="#6f82cf" stroke-width="22" fill="none" stroke-linecap="round"/>
+  <text x="450" y="1015" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#26365f">VANESSA BARBOSA</text>
+</svg>
